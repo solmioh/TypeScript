@@ -17,7 +17,7 @@ let items: number[] = [1,2,3];
 // 배열의 특정 index의 type까지 정의
 let address: [string, number] = ['gangnam', 100];
 
-// TS 객체
+// TS 객체  
 let obj: object = {};
 // let person: object = {
 //     name: 'capt',
